@@ -1,0 +1,24 @@
+###########################################
+# Led Tester For Arduino Beginners
+###########################################
+
+###########################################
+# Datatypes (KEYWORD1)
+###########################################
+
+Led             KEYWORD1
+LedChaser	KEYWORD1
+LedFade 	KEYWORD1
+
+###########################################
+# Methods and Functions (KEYWORD2)
+###########################################
+pin_setup	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+blink	KEYWORD2
+chaser	KEYWORD2
+fade	KEYWORD2
+###########################################
+# Constants (LITERAL1)
+###########################################
